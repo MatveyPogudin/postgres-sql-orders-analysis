@@ -1,6 +1,3 @@
-# postgres-sql-orders-analysis
-
-
 # 📊 Проект по анализу данных о продажах товаров (PostgreSQL)
 
 ## 🗂 Описание проекта
